@@ -10,7 +10,7 @@ One log entry contains
 - The date and time of the commit as well as 
 - The commit message
 
-A summery of the log can be called by `git shortlog`
+A summary of the log can be called by `git shortlog`
 
 ### Options
 - Filter by most recent commits, e.g. the three most recent ones `git log -n 3`
